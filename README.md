@@ -1,2 +1,2 @@
 # devopsdemo_jonas
-Example project from Leipzig
+mit spring boot
